@@ -1,1 +1,2 @@
 git licence
+test diff & status
