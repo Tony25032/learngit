@@ -1,2 +1,4 @@
 git licence
 test diff & status
+test stage & add
+
